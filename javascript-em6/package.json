@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": "https://github.com/jrdutra/javascript-em6.git",
   "author": "Jrdutra <jrdutra.com.br@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "@babel/cli": "^7.4.4"
+  }
 }
