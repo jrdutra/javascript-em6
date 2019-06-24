@@ -6,6 +6,7 @@
   "author": "Jrdutra <jrdutra.com.br@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "@babel/cli": "^7.4.4"
+    "@babel/cli": "^7.4.4",
+    "@babel/preset-env": "^7.4.5"
   }
 }
