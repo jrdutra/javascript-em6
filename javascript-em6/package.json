@@ -1,0 +1,8 @@
+{
+  "name": "javascript-em6",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/jrdutra/javascript-em6.git",
+  "author": "Jrdutra <jrdutra.com.br@gmail.com>",
+  "license": "MIT"
+}
